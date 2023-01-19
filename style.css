@@ -1,0 +1,104 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: black;
+  background-image: url(images/background-obiora-restaurant-2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: auto;
+}
+
+header {
+  height: 110px;
+  text-align: center;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.338);
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+main {
+  height: 400px;
+  text-align: center;
+  padding-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: orangered;
+  opacity: 0.7;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.728);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 15px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 84px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-size: 18px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: bold;
+}
+
+footer p {
+   font-size: 10px;
+   text-align: center;
+   color: orangered;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+
+footer a {
+  text-align: center;
+
+}
+
+.fa {
+  padding: 1px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+  background: #000;
+}
