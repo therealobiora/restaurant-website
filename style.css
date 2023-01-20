@@ -1,12 +1,12 @@
 html {
   height: 100%;
+  width: 100%;
 }
 
 body {
   background-color: black;
-  background-image: url(images/background-obiora-restaurant-2.jpg);
+  background-image: url(images/background-2.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
   background-position: center;
 }
 
@@ -49,11 +49,11 @@ a:hover {
 }
 
 footer {
-  background-color: rgba(0, 0, 0, 0.728);
-  padding-top: 50px;
-  padding-bottom: 50px;
+  background-color: rgba(0, 0, 0, 0.644);
   font-size: 15px;
   font-family: Arial, sans-serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 h1 {
